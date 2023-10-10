@@ -34,7 +34,7 @@ body {
 .dino {
   position: absolute;
   bottom: 0;
-  background-image: url(img/rusbe.jpg);
+  background-image: url(img/juia.png);
   width: 180px;
   height: 200px;
   background-size: 200px;
@@ -45,12 +45,12 @@ body {
 .cacto {
   position: absolute;
   bottom: 0;
-  background-image: url(img/donald.gif);
+  background-image: url(img/formigasauva.jpg);
   width: 255px;
   height: 110px;
   background-size: 150px;
   background-repeat: no-repeat;
-  animation: cacto 1.5s linear infinite;
+  animation: cacto 1.8s linear infinite;
   
 }
 
@@ -59,7 +59,7 @@ body {
     right: -220px;
   }
   100% {
-    right: 850px;
+    right: 750px;
   }
 }
 

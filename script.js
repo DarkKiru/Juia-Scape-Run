@@ -30,8 +30,8 @@ setInterval(() => {
     window.getComputedStyle(cacto).getPropertyValue("left")
   );
 
-  if (cactoLeft > 40 && cactoLeft < 155 && dinoBottom <= 50 && !alreadyJump) {
-    alert(`Você Foi Condenado Pelo Ronald, Caso encerrado: ${count}`);
+  if (cactoLeft > 80 && cactoLeft < 185 && dinoBottom <= 40 && !alreadyJump) {
+    alert(`As Formiga te Lancho: ${count}`);
     count = 0;
   }
 
